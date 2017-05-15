@@ -1,3 +1,8 @@
+[v0.0.2](https://github.com/littleflute/b108/edit/master/README.md)
+
+[b108](b108)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/littleflute/b108/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
