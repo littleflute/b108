@@ -1,6 +1,8 @@
-[v0.0.2](https://github.com/littleflute/b108/edit/master/README.md)
+[v0.0.3](https://github.com/littleflute/b108/edit/master/README.md)
 
 [b108](b108)
+
+[mag](b108/m.html)
 
 
 ## Welcome to GitHub Pages
